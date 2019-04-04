@@ -1,9 +1,9 @@
 <?php 
 
 // Global Configuration start: From here you can change the email-id of receiver, cc, from email-id & subject;
-$to = "theembazaar@gmail.com";
+$to = "stephenngala69@gmail.com";
 $from = "test@theembazaar.com"; 
-$subject = "Xlava - Corporate, Agency Business HTML5 Template";
+$subject = "Devify";
 // Global configuration end
 $errmasg = "";
 

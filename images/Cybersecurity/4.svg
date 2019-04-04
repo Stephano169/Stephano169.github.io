@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 302 176" style="enable-background:new 0 0 302 176;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#DAC999;}
+	.st1{fill:#F37F6A;}
+	.st2{fill:#FDC131;}
+	.st3{fill:#FEE098;}
+</style>
+<path class="st0" d="M149.8,99.5"/>
+<circle class="st1" cx="114.5" cy="71.6" r="20.4"/>
+<g>
+	<polygon class="st2" points="232.4,44 93.4,44 162.9,109.3 	"/>
+	<polygon class="st3" points="162.9,109.3 93.4,44 93.4,132.2 232.4,132.2 232.4,44 	"/>
+</g>
+<g>
+	<path class="st2" d="M81.9,105.8H58.6c-2.7,0-4.9,2.2-4.9,4.9c0,2.7,2.2,4.9,4.9,4.9H82L81.9,105.8L81.9,105.8z"/>
+	<path class="st2" d="M58.6,70.4H82v-9.8H58.6c-2.7,0-4.9,2.2-4.9,4.9C53.7,68.2,55.8,70.4,58.6,70.4z"/>
+	<path class="st2" d="M81.9,83.2h-46c-2.7,0-4.9,2.2-4.9,4.9s2.2,4.9,5,4.9h46L81.9,83.2L81.9,83.2z"/>
+</g>
+</svg>
